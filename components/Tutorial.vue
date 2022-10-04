@@ -1,8 +1,11 @@
 <!-- Please remove this file from your project -->
 <template>
   <div>
-    <h1 class="bg-red-500">helooooooooooooooooooooooo</h1>
+    <h1 class="bg-blue-500 mt-16 text-lg font-bold">
+      helooooooooooooooooooooooo
+    </h1>
     <h2>baaaaabaaaaaaaaaaaaababbbbbbbnaaaaaaaaaaaaabaaaaaaaa</h2>
+    
   </div>
 </template>
 
