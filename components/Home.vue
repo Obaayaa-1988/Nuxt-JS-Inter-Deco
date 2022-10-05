@@ -5,20 +5,30 @@
         <h1 class="text-xl font-extrabold mb-8">
           Make More and More Memories Here
         </h1>
-        <p >
+        <p>
           Our first async presentation went pretty well we highlighted the
           problem statement which is to
         </p>
-        <button class="mb-8 bg-amber-900 py-3 px-8 text-white mt-12">View Store</button>
+        <button class="mb-8 bg-stone-600 py-3 px-8 text-white mt-12">
+          View Store
+        </button>
       </div>
     </div>
 
-    <div>
-        <div grid grid-cols-3 gap-4>
-            <img src="~/assets/image1.jpg" class="w-1/4 h-4/5 object-cover  "/>
-            <img src="~/assets/image1.jpg" />
-            <img src="~/assets/image1.jpg" />
-        </div>
+    <div class="w-4/5 h-96 flex gap-x-3 mx-auto object-cover">
+      <!-- <div class=""> -->
+      <div class="h-full border border-emerald-800">
+        <img src="~/assets/image1.jpg" class="h-full" />
+      </div>
+
+      <div class="">
+        <img src="~/assets/image1.jpg" class="h-full" />
+      </div>
+
+      <div class="">
+        <img src="~/assets/image1.jpg" class="h-full" />
+      </div>
+      <!-- </div> -->
     </div>
   </div>
 </template>
