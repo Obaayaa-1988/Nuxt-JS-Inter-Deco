@@ -1,8 +1,10 @@
 <template>
   <div>
+    <Navlist />
+    <!--------section 1-->
     <div>
-      <div class="flex flex-col justify-center items-center h-2/3 mt-60">
-        <h1 class="text-xl font-extrabold mb-8">
+      <div class="flex flex-col justify-center items-center h-full mt-60">
+        <h1 class="text-2xl font-extrabold mb-8">
           Make More and More Memories Here
         </h1>
         <p>
@@ -15,20 +17,53 @@
       </div>
     </div>
 
-    <div class="w-4/5 h-96 flex gap-x-3 mx-auto object-cover">
-      <!-- <div class=""> -->
-      <div class="h-full border border-emerald-800">
-        <img src="~/assets/image1.jpg" class="h-full" />
+    <!---------------section 2-->
+
+    <div class="w-4/5 m-auto">
+      <div class="flex gap-5">
+        <div>
+          <div class="w-96 h-full">
+            <img
+              src="images/image19.jpg "
+              class="w-full h-full pt-20 object-cover"
+            />
+          </div>
+        </div>
+
+        <div>
+          <div class="w-96 h-full bg-white">
+            <img src="images/image1.jpg " class="w-full h-full object-cover" />
+          </div>
+        </div>
+
+        <div class="w-96 h-full bg-white">
+          <img
+            src="images/image17.jpg "
+            class="w-full h-full pt-20 object-cover"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!-------------section 3---------->
+    <div class="w-4/5 m-auto">
+      <div class="flex gap-">
+        <div><h1>INTERIOR</h1></div>
+        <div><h1>DECORATION</h1></div>
+        <div><h1>ARCHITECTURE</h1></div>
       </div>
 
-      <div class="">
-        <img src="~/assets/image1.jpg" class="h-full" />
+      <div class="flex gap-3" >
+        <div><h1>01</h1></div>
+        <div><h1>02</h1></div>
+        <div><h1>03</h1></div>
       </div>
+    </div>
 
-      <div class="">
-        <img src="~/assets/image1.jpg" class="h-full" />
+    <div  >
+      <div class="w-full h-96 bg-stone-600">
+        <h1 class="text-white">hellooooo</h1>
       </div>
-      <!-- </div> -->
     </div>
   </div>
 </template>
@@ -39,6 +74,6 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 </style>
 
