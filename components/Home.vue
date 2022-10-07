@@ -49,8 +49,8 @@
     <div class="w-4/5 m-auto">
       <div class="flex justify-around " >
         <div><h1 class="text-xl font-semibold my-8 font-mono text-center">INTERIOR<hr class="border border-orange-600 font-extrabold"></h1></div>
-        <div><h1 class="text-xl  my-8 font-mono font-semibold">DECORATION<hr class="border border-orange-600 font-extrabold"/></h1></div>
-        <div><h1 class="text-xl font-semibold my-8 font-mono">ARCHITECTURE<hr class="border border-orange-600 font-extrabold"/></h1></div>
+        <div><h1 class="text-xl  my-8 font-mono font-semibold">DECORATION<hr class="border border-orange-600  font-extrabold"/></h1></div>
+        <div><h1 class="text-xl font-semibold my-8 font-mono">ARCHITECTURE<hr class="border border-orange-600  font-extrabold"/></h1></div>
       </div>
 
       <div class="flex justify-between" >
