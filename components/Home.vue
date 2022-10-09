@@ -80,8 +80,7 @@
     <div class="w-full h-full bg-stone-600 flex justify-evenly mt-16">
       <div class="px-16">
         <img
-          src="images/image1.jpg"
-          class="w-full h-full rounded-2xl object-cover py-20"
+          src="images/image1.jpg" class="w-full h-full rounded-2xl object-cover py-20 "
         />
       </div>
       <div class="flex flex-col justify-center items-center px-16">
@@ -101,6 +100,7 @@
         >
           Explore
         </button>
+        <h2 class="mb-8 text-white text-l">Follow US</h2>
       </div>
     </div>
 
