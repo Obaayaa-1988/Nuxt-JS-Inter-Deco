@@ -296,9 +296,9 @@
         </h1>
       </div>
       <div class="w-4/5 mx-auto flex ">
-        <div class="bg-gray-100 w-2/4 h-4/5">
-          <h1 class="text-white">NEW COLLECTION</h1>
-          <p class="text-white text-base my-8">
+        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
+          <h1 class="font-semibold font-mono pt-8">LIVING ROOM DESIGN</h1>
+          <p class="text-gray-600 text-base my-4 w-2/4">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
@@ -309,6 +309,106 @@
         </div>
       </div>
     </section>
+
+     <section>
+      <div class="flex justify-between">
+        <h1
+          class="
+            font-extrabold
+            text-l text-white
+            py-4
+            px-4
+            bg-black
+            w-1/4
+            font-mono
+            text-center
+          "
+        >
+          RECENT WORKS
+        </h1>
+        <h1
+          class="
+            font-extrabold
+            text-l text-white
+            py-4
+            px-4
+            bg-white
+            w-1/4
+            font-mono
+            text-center
+          "
+        >
+          RECENT WORKS
+        </h1>
+      </div>
+
+
+      <div class="w-4/5 mx-auto flex ">
+
+        <div class="w-2/4">
+          <img class="w-full h-full" src="images/image18.jpg" alt="" />
+        </div>
+
+        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
+          <h1 class="font-semibold font-mono pt-8">LIVING ROOM DESIGN</h1>
+          <p class="text-gray-600 text-base my-4 w-2/4">
+            Some quick example text to build on the card title and make up the
+            bulk of the card's content.
+          </p>
+        </div>    
+      </div>
+    </section>
+
+     <section>
+      <div class="flex justify-between">
+        <h1
+          class="
+            font-extrabold
+            text-l text-white
+            py-4
+            px-4
+            bg-white
+            w-1/4
+            font-mono
+            text-center
+          "
+        >
+          RECENT WORKS
+        </h1>
+        <h1
+          class="
+            font-extrabold
+            text-l text-white
+            py-4
+            px-4
+            bg-black
+            w-1/4
+            font-mono
+            text-center
+          "
+        >
+          RECENT WORKS
+        </h1>
+      </div>
+      <div class="w-4/5 mx-auto flex ">
+        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
+          <h1 class="font-semibold font-mono pt-8">WASHROOM DESIGN</h1>
+          <p class="text-gray-600 text-base my-4 w-2/4">
+            Some quick example text to build on the card title and make up the
+            bulk of the card's content.
+          </p>
+        </div>
+
+        <div class="w-2/4">
+          <img class="w-full h-full" src="images/image13.jpg" alt="" />
+        </div>
+      </div>
+    </section>
+
+
+    
+
+
   </div>
 </template>
 
