@@ -30,7 +30,7 @@
       </div>
 
       <div class="w-96">
-        <img src="images/image1.jpg " class="w-full h-full object-cover" />
+        <img src="images/image5.jpg " class="w-full h-full object-cover" />
       </div>
 
       <div class="w-96 h-full">
@@ -47,19 +47,19 @@
         <div>
           <h1 class="text-xl font-semibold my-8 font-mono text-center">
             INTERIOR
-            <hr class="border border-orange-600 font-extrabold" />
+            <hr class="border border-orange-600 font-extrabold mt-2.5" />
           </h1>
         </div>
         <div>
           <h1 class="text-xl my-8 font-mono font-semibold">
             DECORATION
-            <hr class="border border-orange-600 font-extrabold" />
+            <hr class="border border-orange-600 font-extrabold mt-2.5" />
           </h1>
         </div>
         <div>
           <h1 class="text-xl font-semibold my-8 font-mono">
             ARCHITECTURE
-            <hr class="border border-orange-600 font-extrabold" />
+            <hr class="border border-orange-600 font-extrabold mt-2.5" />
           </h1>
         </div>
       </div>
@@ -75,12 +75,14 @@
       <div class="px-16">
         <img
           src="images/image1.jpg"
-          class="rounded w-full h-full object-cover py-20"
+          class="rounded-t-lg w-full h-full object-cover py-20"
         />
       </div>
       <div class="flex flex-col justify-center items-center px-16">
-        <h1 class="text-white text-7xl font-extrabold font-serif">INTERIOR</h1>
-        <h1 class="text-white text-7xl font-extrabold font-serif">DESIGNS</h1>
+        <h1 class="text-white text-7xl font-extrabold font-mono">INTERIOR</h1>
+        <h1 class="text-white text-7xl font-extrabold font-mono mt-8">
+          DESIGNS
+        </h1>
         <p class="text-white pt-8">Engage More With Reality</p>
         <button
           class="
@@ -138,143 +140,174 @@
 
     <div class="bg-gray-100 w-full min-h-screen m-auto">
       <div>
-        <h1 class="text-center font-semibold text-4xl pt-20 font-serif">OUR SERVICES</h1>
-        <p class="flex justify-center mt-8 mb-16"> Clear explanations of core points, detailed concept, identification
-            of sources and good examples. </p>
+        <h1 class="text-center font-semibold text-4xl pt-20 font-mono">
+          OUR SERVICES
+        </h1>
+        <p class="flex justify-center mt-8 mb-16">
+          Clear explanations of core points, detailed concept, identification of
+          sources and good examples.
+        </p>
       </div>
 
       <div class="flex justify-between w-4/5 m-auto">
-<div class="flex justify-center">
-  <div class="rounded-lg shadow-lg bg-white max-w-sm">
-    <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-      <img class="rounded-t-lg" src="images/image23.jpg" alt=""/>
-    </a>
-    <div class="p-6">
-      <h5 class="text-gray-900 text-xl font-semibold mb-2 font-mono">INTERIOR DESIGNS</h5>
-      <p class="text-gray-700 text-base my-8">
-        Clear explanations of core points, detailed concept, identification
-            of sources and good examples.
-      </p>
-      <button type="button" class=" inline-block px-6 py-2.5 rounded-full border-2 border-orange-600 font-medium text-xs  shadow-md hover:bg-black- hover:shadow-lg focus:shadow-lg focus:outline-none  active:shadow-lg transition duration-150 ease-in-out">Request</button>
-    </div>
-  </div>
-</div>
+        <div class="flex justify-center">
+          <div class="rounded-lg shadow-lg bg-white max-w-sm">
+            <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
+              <img class="rounded-t-lg" src="images/image23.jpg" alt="" />
+            </a>
+            <div class="p-6">
+              <h5 class="text-gray-900 text-xl font-semibold mb-2 font-mono">
+                INTERIOR DESIGNS
+              </h5>
+              <p class="text-gray-700 text-base my-8">
+                Clear explanations of core points, detailed concept,
+                identification of sources and good examples.
+              </p>
+              <button
+                type="button"
+                class="
+                  inline-block
+                  px-6
+                  py-2.5
+                  border-2 border-orange-600
+                  font-medium
+                  text-xs
+                  shadow-md
+                  hover:bg-black- hover:shadow-lg
+                  focus:shadow-lg focus:outline-none
+                  active:shadow-lg
+                  transition
+                  duration-150
+                  ease-in-out
+                "
+              >
+                Request
+              </button>
+            </div>
+          </div>
+        </div>
 
+        <div class="flex justify-center">
+          <div class="rounded-lg shadow-lg bg-white max-w-sm">
+            <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
+              <img class="rounded-t-lg" src="images/image20.jpg" alt="" />
+            </a>
+            <div class="p-6">
+              <h5 class="text-gray-900 text-xl mb-2 font-mono font-semibold">
+                SPACING LOGICS
+              </h5>
+              <p class="text-gray-700 text-base my-8">
+                Clear explanations of core points, detailed concept,
+                identification of sources and good examples.
+              </p>
+              <button
+                type="button"
+                class="
+                  inline-block
+                  px-6
+                  py-2.5
+                  border-2 border-orange-600
+                  font-medium
+                  text-xs
+                  leading-tight
+                  hover:shadow
+                  focus:shadow-lg focus:outline-none focus:ring-0
+                  active:shadow-lg
+                  transition
+                  duration-150
+                  ease-in-out
+                "
+              >
+                Request
+              </button>
+            </div>
+          </div>
+        </div>
 
-<div class="flex justify-center">
-  <div class="rounded-lg shadow-lg bg-white max-w-sm">
-    <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-      <img class="rounded-t-lg" src="images/image20.jpg" alt=""/>
-    </a>
-    <div class="p-6">
-      <h5 class="text-gray-900 text-xl mb-2 font-mono font-semibold">SPACING LOGICS</h5>
-      <p class="text-gray-700 text-base my-8">
-         Clear explanations of core points, detailed concept, identification
-            of sources and good examples.
-      </p>
-      <button type="button" class=" inline-block px-6 py-2.5 border-2 border-green-700 rounded-full   font-medium text-xs leading-tight hover:shadow focus:shadow-lg focus:outline-none focus:ring-0  active:shadow-lg transition duration-150 ease-in-out">Request</button>
-    </div>
-  </div>
-</div>
+        <div class="flex justify-center">
+          <div class="rounded-lg shadow-lg bg-white max-w-sm">
+            <img class="rounded-t-lg" src="images/image14.jpg" alt="" />
 
-
-<div class="flex justify-center">
-  <div class="rounded-lg shadow-lg bg-white max-w-sm">
-      <img class="rounded-t-lg" src="images/image14.jpg" alt=""/>
-    
-    <div class="p-6">
-      <h5 class="text-gray-900 text-xl font-semibold mb-2 font-mono">ART AND DESIGN</h5>
-      <p class="text-gray-700 text-base my-8">
-        Some quick example text to build on the card title and make up the bulk of the card's
-        content.
-      </p>
-      <button type="button" class=" inline-block px-6 py-2.5 border-2 border-blue-600 rounded-full   font-medium text-xs leading-tight shadow-md hover:bg-black-700 hover:shadow-lg  focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out">Request</button>
-    </div>
-  </div>
-</div>
-
-        
-
-        
-        <!-- <div>
-          <h1 class="font-extrabold text-2xl font-mono">FUNITURES</h1>
-          <p class="w-4/5">
-            Clear explanations of core points, detailed concept, identification
-            of sources and good examples.
-          </p>
-        </div> -->
+            <div class="p-6">
+              <h5 class="text-gray-900 text-xl font-semibold mb-2 font-mono">
+                ART AND DESIGN
+              </h5>
+              <p class="text-gray-700 text-base my-8">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <button
+                type="button"
+                class="
+                  inline-block
+                  px-6
+                  py-2.5
+                  border-2 border-orange-600
+                  font-medium
+                  text-xs
+                  leading-tight
+                  shadow-md
+                  hover:bg-black-700 hover:shadow-lg
+                  focus:shadow-lg focus:outline-none focus:ring-0
+                  active:shadow-lg
+                  transition
+                  duration-150
+                  ease-in-out
+                "
+              >
+                Request
+              </button>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
     <!-----start of---------section 6-->
     <section>
-      <h1 class="font-extrabold text-l text-white py-4 px-4 bg-black w-1/4 font-mono text-center">
-        RECENT WORKS
-      </h1>
-      <!-- <div class="grid grid-cols-2 grid-rows-2 gap-5 mx-auto w-4/5">
-        <div class="">
-          <div class="">
-            <img src="images/image12.jpg " class=" object-cover" />
-          </div>
-
-          <div>
-            <h3 class="">KITCHEN INTERIOR</h3>
-            <p>
-              Clear explanations of core points, detailed concept,
-              identification of sources and good examples.
-            </p>
-          </div>
+      <div class="flex justify-between">
+        <h1
+          class="
+            font-extrabold
+            text-l text-white
+            py-4
+            px-4
+            bg-white
+            w-1/4
+            font-mono
+            text-center
+          "
+        >
+          RECENT WORKS
+        </h1>
+        <h1
+          class="
+            font-extrabold
+            text-l text-white
+            py-4
+            px-4
+            bg-black
+            w-1/4
+            font-mono
+            text-center
+          "
+        >
+          RECENT WORKS
+        </h1>
+      </div>
+      <div class="w-4/5 mx-auto flex ">
+        <div class="bg-gray-100 w-2/4 h-4/5">
+          <h1 class="text-white">NEW COLLECTION</h1>
+          <p class="text-white text-base my-8">
+            Some quick example text to build on the card title and make up the
+            bulk of the card's content.
+          </p>
         </div>
 
-        <div>
-          <div class="">
-            <img
-              src="images/image12.jpg "
-              class=" object-cover"
-            />
-          </div>
-
-          <div>
-            <h3 class="">WASHROOM INTERIOR</h3>
-            <p>
-              Clear explanations of core points, detailed concept,
-              identification of sources and good examples.
-            </p>
-          </div>
+        <div class="w-2/4">
+          <img class="w-full h-full" src="images/image7.jpg" alt="" />
         </div>
-        <div>
-          <div class="">
-            <img
-              src="images/image12.jpg "
-              class=" object-cover"
-            />
-          </div>
-
-          <div>
-            <h3 class="">LIVING INTERIOR</h3>
-            <p>
-              Clear explanations of core points, detailed concept,
-              identification of sources and good examples.
-            </p>
-          </div>
-        </div>
-        <div>
-          <div class="">
-            <img
-              src="images/image12.jpg "
-              class="object-cover"
-            />
-          </div>
-
-          <div>
-            <h3 class="">BEDROOM INTERIOR</h3>
-            <p>
-              Clear explanations of core points, detailed concept,
-              identification of sources and good examples.
-            </p>
-          </div>
-        </div>
-      </div> -->
+      </div>
     </section>
   </div>
 </template>
