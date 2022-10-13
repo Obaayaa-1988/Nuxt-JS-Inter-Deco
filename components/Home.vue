@@ -71,7 +71,7 @@
       </div>
     </div>
 
-    <div class="w-full h-full bg-stone-600 flex justify-evenly mt-16">
+    <div class="w-full h-full bg-stone-600 flex justify-evenly mt-16 md">
       <div class="px-16">
         <img
           src="images/image1.jpg"
@@ -150,8 +150,8 @@
       </div>
 
       <div class="flex justify-between w-4/5 m-auto">
-        <div class="flex justify-center">
-          <div class="rounded-lg shadow-lg bg-white max-w-sm">
+        <div class="flex justify-center md">
+          <div class="rounded-lg shadow-lg bg-white max-w-sm md">
             <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
               <img class="rounded-t-lg" src="images/image23.jpg" alt="" />
             </a>
@@ -187,8 +187,8 @@
           </div>
         </div>
 
-        <div class="flex justify-center">
-          <div class="rounded-lg shadow-lg bg-white max-w-sm">
+        <div class="flex justify-center md">
+          <div class="rounded-lg shadow-lg bg-white max-w-sm md">
             <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
               <img class="rounded-t-lg" src="images/image20.jpg" alt="" />
             </a>
@@ -224,8 +224,8 @@
           </div>
         </div>
 
-        <div class="flex justify-center">
-          <div class="rounded-lg shadow-lg bg-white max-w-sm">
+        <div class="flex justify-center md">
+          <div class="rounded-lg shadow-lg bg-white max-w-sm md">
             <img class="rounded-t-lg" src="images/image14.jpg" alt="" />
 
             <div class="p-6">
@@ -349,7 +349,7 @@
           <img class="w-full h-full" src="images/image18.jpg" alt="" />
         </div>
 
-        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
+        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl md ">
           <h1 class="font-semibold font-mono pt-8">LIVING ROOM DESIGN</h1>
           <p class="text-gray-600 text-base my-4 w-2/4">
             Some quick example text to build on the card title and make up the
@@ -390,13 +390,15 @@
           RECENT WORKS
         </h1>
       </div>
-      <div class="w-4/5 mx-auto flex ">
-        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
-          <h1 class="font-semibold font-mono pt-8">WASHROOM DESIGN</h1>
-          <p class="text-gray-600 text-base my-4 w-2/4">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
-          </p>
+      <div class="w-4/5 mx-auto flex md">
+        <div class="bg-sky-900 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
+          <div class="border-t-8 border-l-8 border-orange-600 w-3/6 px-16">    
+            <h1 class="font-semibold font-mono pt-8 text-center text-white">WASHROOM DESIGN</h1>
+            <p class=" text-base my-4 text-white ">
+              Some quick example text to build on the card title and make up the
+              bulk of the card's content.
+            </p>
+          </div>
         </div>
 
         <div class="w-2/4">
