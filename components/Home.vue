@@ -169,7 +169,7 @@
                   inline-block
                   px-6
                   py-2.5
-                  border-2 border-orange-600
+                  border-4 border-orange-600
                   font-medium
                   text-xs
                   shadow-md
@@ -206,7 +206,7 @@
                   inline-block
                   px-6
                   py-2.5
-                  border-2 border-orange-600
+                  border-4 border-orange-600
                   font-medium
                   text-xs
                   leading-tight
@@ -242,7 +242,7 @@
                   inline-block
                   px-6
                   py-2.5
-                  border-2 border-orange-600
+                  border-4 border-orange-600
                   font-medium
                   text-xs
                   leading-tight
