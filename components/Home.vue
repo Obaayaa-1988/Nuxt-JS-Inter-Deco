@@ -286,7 +286,7 @@
             text-l text-white
             py-4
             px-4
-            bg-black
+            bg-orange-600
             w-1/4
             font-mono
             text-center
@@ -295,10 +295,22 @@
           RECENT WORKS
         </h1>
       </div>
-      <div class="w-4/5 mx-auto flex ">
-        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
-          <h1 class="font-semibold font-mono pt-8">LIVING ROOM DESIGN</h1>
-          <p class="text-gray-600 text-base my-4 w-2/4">
+      <div class="w-4/5 mx-auto flex">
+        <div
+          class="
+            bg-neutral-100
+            w-2/4
+            max-h-96
+            flex flex-col
+            justify-center
+            items-center
+            text-xl
+          "
+        >
+          <h1 class="font-semibold font-mono pt-8 text-2xl">
+            LIVING ROOM DESIGN
+          </h1>
+          <p class="text-gray-600 text-base my-4 w-2/4 font-bold">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
@@ -310,7 +322,7 @@
       </div>
     </section>
 
-     <section>
+    <section>
       <div class="flex justify-between">
         <h1
           class="
@@ -342,24 +354,35 @@
         </h1>
       </div>
 
-
-      <div class="w-4/5 mx-auto flex ">
-
+      <div class="w-4/5 mx-auto flex">
         <div class="w-2/4">
           <img class="w-full h-full" src="images/image18.jpg" alt="" />
         </div>
 
-        <div class="bg-neutral-100 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl md ">
-          <h1 class="font-semibold font-mono pt-8">LIVING ROOM DESIGN</h1>
-          <p class="text-gray-600 text-base my-4 w-2/4">
+        <div
+          class="
+            bg-neutral-100
+            w-2/4
+            max-h-96
+            flex flex-col
+            justify-center
+            items-center
+            text-xl
+            md
+          "
+        >
+          <h1 class="font-semibold font-mono pt-8 text-2xl">
+            LIVING ROOM DESIGN
+          </h1>
+          <p class="text-gray-600 text-base my-4 w-2/4 font-bold">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-        </div>    
+        </div>
       </div>
     </section>
 
-     <section>
+    <section>
       <div class="flex justify-between">
         <h1
           class="
@@ -381,7 +404,7 @@
             text-l text-white
             py-4
             px-4
-            bg-black
+            bg-orange-600
             w-1/4
             font-mono
             text-center
@@ -391,10 +414,22 @@
         </h1>
       </div>
       <div class="w-4/5 mx-auto flex md">
-        <div class="bg-sky-900 w-2/4 max-h-96 flex flex-col justify-center items-center text-xl ">
-          <div class="border-t-8 border-l-8 border-orange-600 w-3/6 px-16">    
-            <h1 class="font-semibold font-mono pt-8 text-center text-white">WASHROOM DESIGN</h1>
-            <p class=" text-base my-4 text-white ">
+        <div
+          class="
+            bg-sky-900
+            w-2/4
+            max-h-96
+            flex flex-col
+            justify-center
+            items-center
+            text-xl
+          "
+        >
+          <div class="border-t-8 border-l-8 border-orange-600 w-3/6 px-16">
+            <h1 class="font-semibold font-mono pt-8 text-center text-white">
+              WASHROOM DESIGN
+            </h1>
+            <p class="text-base my-4 text-white">
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </p>
@@ -407,10 +442,21 @@
       </div>
     </section>
 
+    <!----------section 8----->
+    <div>
+      <div class="text-3xl text-center font-extrabold font-mono">
+        <h1>Image Gallery Parallax</h1>
+      </div>
+      <div
+        style="background-image: url(~@/assets/img/image1.jpg)"
+        class="w-full min-h-screen bg-center bg-repeat bg-cover"
+      ></div>
+    </div>
 
-    
-
-
+    <!------------footer-->
+    <div class="bg-black w-full h-24 flex justify-center">
+      <div class="text-white">Designed By MISS ASHBELLA</div>
+    </div>
   </div>
 </template>
 
