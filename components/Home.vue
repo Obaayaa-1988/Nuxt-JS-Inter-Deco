@@ -12,7 +12,7 @@
           problem statement which is to
         </p>
         <button
-          class="mb-8 bg-stone-600 py-3 px-8 text-white mt-12 font-extrabold"
+          class="mb-8 bg-orange-600 py-3 px-8 text-white mt-12 font-extrabold"
         >
           View Store
         </button>
@@ -264,7 +264,7 @@
     </div>
 
     <!-----start of---------section 6-->
-    <section>
+    <section class="py-8">
       <div class="flex justify-between">
         <h1
           class="
@@ -307,9 +307,7 @@
             text-xl
           "
         >
-          <h1 class="font-semibold font-mono pt-8 text-2xl">
-            LIVING ROOM DESIGN
-          </h1>
+          <h1 class="font-semibold font-mono pt-8 text-2xl">KITCHEN DESIGN</h1>
           <p class="text-gray-600 text-base my-4 w-2/4 font-bold">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
@@ -322,7 +320,7 @@
       </div>
     </section>
 
-    <section>
+    <section class="py-8">
       <div class="flex justify-between">
         <h1
           class="
@@ -330,7 +328,7 @@
             text-l text-white
             py-4
             px-4
-            bg-black
+            bg-orange-600
             w-1/4
             font-mono
             text-center
@@ -371,9 +369,7 @@
             md
           "
         >
-          <h1 class="font-semibold font-mono pt-8 text-2xl">
-            LIVING ROOM DESIGN
-          </h1>
+          <h1 class="font-semibold font-mono pt-8 text-2xl">BEDROOM DESIGN</h1>
           <p class="text-gray-600 text-base my-4 w-2/4 font-bold">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
@@ -382,7 +378,7 @@
       </div>
     </section>
 
-    <section>
+    <section class="pt-8">
       <div class="flex justify-between">
         <h1
           class="
@@ -404,7 +400,7 @@
             text-l text-white
             py-4
             px-4
-            bg-orange-600
+            bg-black
             w-1/4
             font-mono
             text-center
@@ -443,7 +439,8 @@
     </section>
 
     <!----------section 8----->
-    <div class="w-full h-full bg-slate-900 py-40 mt-40">
+    <div class="w-full h-full bg-slate-900 py-32 mt-40 bg-fixed">
+      <h1 class="text-center text-6xl text-orange-600 font-semibold">DECOR</h1>
       <div class="w-4/5 mx-auto flex gap-5">
         <div class="w-96">
           <img
