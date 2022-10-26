@@ -447,7 +447,7 @@
       <div class="w-4/5 mx-auto flex gap-5">
         <div class="w-96">
           <img
-            src="images/image19.jpg "
+            src="images/image12.jpg "
             class="w-full h-full pt-20 object-cover"
           />
         </div>
@@ -469,10 +469,7 @@
       </div>
     </div>
 
-    <!------------footer-->
-    <div class="bg-black w-full h-24 flex justify-center">
-      <div class="text-white">Designed By MISS ASHBELLA</div>
-    </div>
+    <FooterInter />
   </div>
 </template>
 
