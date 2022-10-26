@@ -286,7 +286,7 @@
             text-l text-white
             py-4
             px-4
-            bg-orange-600
+            bg-black
             w-1/4
             font-mono
             text-center
@@ -443,14 +443,30 @@
     </section>
 
     <!----------section 8----->
-    <div>
-      <div class="text-3xl text-center font-extrabold font-mono">
-        <h1>Image Gallery Parallax</h1>
+    <div class="w-full h-full bg-slate-900 py-40 mt-40">
+      <div class="w-4/5 mx-auto flex gap-5">
+        <div class="w-96">
+          <img
+            src="images/image19.jpg "
+            class="w-full h-full pt-20 object-cover"
+          />
+        </div>
+
+        <div class="w-96">
+          <img src="images/image5.jpg " class="w-full h-full object-cover" />
+        </div>
+
+        <div class="w-96 h-full">
+          <img
+            src="images/image17.jpg "
+            class="w-full h-full pt-20 object-cover"
+          />
+        </div>
+
+        <div class="w-96">
+          <img src="images/image23.jpg " class="w-full h-full object-cover" />
+        </div>
       </div>
-      <div
-        style="background-image: url(~@/assets/img/image1.jpg)"
-        class="w-full min-h-screen bg-center bg-repeat bg-cover"
-      ></div>
     </div>
 
     <!------------footer-->
