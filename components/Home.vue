@@ -465,6 +465,12 @@
         </div>
       </div>
     </div>
+    <div class="bg-blue-900 w-60 h-60 rounded-md my-24">
+      <img
+        src="images/arm.png"
+        class="w-8 h-8 brightness-200 font-extralight"
+      />
+    </div>
 
     <FooterInter />
   </div>
